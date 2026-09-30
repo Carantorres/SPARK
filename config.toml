@@ -1,0 +1,7 @@
+# SPARK — tema blanco (claro). Coloca este archivo en la carpeta .streamlit/ junto a la app.
+[theme]
+base = "light"
+primaryColor = "#FF4B4B"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6F8"
+textColor = "#1F2328"
